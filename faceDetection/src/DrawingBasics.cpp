@@ -5,7 +5,7 @@
 #define w 400
 
 using namespace cv;
-
+i
 /// Function headers
 void MyEllipse( Mat img, double angle );
 void MyFilledCircle( Mat img, Point center );
